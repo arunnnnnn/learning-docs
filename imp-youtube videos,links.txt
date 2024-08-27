@@ -1,0 +1,7 @@
+
+https://www.youtube.com/watch?v=jbEF3mB7UcU :  ci-cd example using jenkins-git,sonarcube,dockerbuild and docker push
+
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html  : Cloud formation complete resource template
+
+https://www.youtube.com/watch?v=XZbvQWkpJTI&t=840s : AWS Networking
+
